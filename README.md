@@ -157,7 +157,7 @@ Image:
 
 图片加链接 (Image + Link)：
 
-[![](https://pandao.github.io/editor.md/examples/images/7.jpg)](https://pandao.github.io/editor.md/examples/images/7.jpg "李健首张专辑《似水流年》封面")
+[![](https://pandao.github.io/editor.md/examples/images/7.jpg)](https://pandao.github.io/editor.md/examples/images/7.jpg "李健首张专辑《似水流年》封面 hoss")
 
 > 图为：李健首张专辑《似水流年》封面
 
@@ -194,6 +194,19 @@ Image:
 1. Item A
 2. Item B
 3. Item C
+
+---
+
+#### My own list "hoss"
+
+- Item 1
+  - sub item 1
+    - sub sub item 1
+    ```js
+    console.log(x.form(this.y));
+    ```
+    `NOTE:` The previous code item was better.
+- Item 2
 
 ---
 
@@ -309,3 +322,67 @@ echo "doit" ;\
 mkdir "cool";\
 cd "hi/do/"
 ```
+
+here we select this item and start implementing the previous code.
+So what if
+
+---
+
+`Note: You don't need this code to deploy anytime`<br>
+So in this case i don't expect to learn or understand anything about this code whenever i need to know about it.<br>
+
+---
+
+## How to get a second chance ?
+
+#### a very tiny information you may find there in this code .. Thanks
+
+> `NOTE` This is a disclaimer or a good `applicable` app that can run on the top of this stack meanwhile it's done so smoothly by the operator on this flash memory.
+
+Thanks to anyone started to develop this application and idealized the good features on the top of the hub memory stack.
+
+> `NOTE:` This application is not intended to be like this .. but because we were doing all that effort in this file. This is why i chose the following code
+
+```sh
+echo "hi"
+ls "bookshelf/mybookFolder"
+```
+
+    I tried to do this now
+    anything is good
+    echo ""
+
+but i d
+
+# hi you
+
+## hi you
+
+### hi you
+
+#### hi you
+
+##### hi you
+
+###### hi you
+
+hi \*hey\*<br>
+
+1.  Open the editor and write
+    ```sh
+    echo "hi"
+    ls "desktop"
+    ```
+    so this starts the first line
+
+![](https://rstudio.github.io/learnr/images/create-new-tutorial.png)
+
+_hi_<br>
+_hi_
+
+![](https://www.youtube.com/watch?v=LVvBX3cN_VE&t=70s)
+<br><br>
+
+[video about ](https://www.youtube.com/watch?v=LVvBX3cN_VE&t=70s)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/LVvBX3cN_VE&t=70s/0.jpg)](https://www.youtube.com/watch?v=LVvBX3cN_VE&t=70s)
